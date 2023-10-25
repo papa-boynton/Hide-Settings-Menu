@@ -16,7 +16,7 @@
   <a href="https://droptopfour.com/discord">
       <img alt="Discord" src="https://img.shields.io/discord/800124057923485728">
   </a>
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/papa-boynton/Hide%20Settings%20Menu/total">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/papa-boynton/Hide-Settings-Menu/total">
 </p>
 
 <p align="center">
